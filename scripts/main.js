@@ -91,7 +91,7 @@ async function getInputValue(){
     trueValue(value);
     createText("<a href='https://github.com/MaryannGitonga' target='_blank'><i class='fab fa-github white'></i> github.com/MaryannGitonga</a>")
     createText("<a href='https://www.linkedin.com/in/maryann-gitonga-920983150/' target='_blank'><i class='fab fa-linkedin-in white'></i> linkedin.com/in/maryann-gitonga</a>")
-    createText("<a href='https://dev.to/maryanngitonga' target='_blank'><i class='fab fa-dev'></i> dev.to/maryanngitonga</a>")
+    createText("<a href='https://medium.com/@maryanngitonga' target='_blank'><i class='fab fa-medium'></i> medium.con/@maryanngitonga</a>")
   }
   else if(value === "--social"){
     trueValue(value);
